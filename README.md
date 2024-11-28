@@ -1,4 +1,4 @@
-![MaterHead](https://media.licdn.com/dms/image/D4D12AQHbvomergAhUA/article-cover_image-shrink_720_1280/0/1660573310659?e=2147483647&v=beta&t=6cIPZUAdDpBPmWuIimndpTPBBNhg4nVnvI1fxFGvFK0)
+![MaterHead](https://t3.ftcdn.net/jpg/10/52/09/10/360_F_1052091099_d6wWwwXd0CxV8KsjGHrVesx0oG1VjVMh.jpg)
 <h1 align="center">Hi 👋, I'm Didula Dishan Nanayakkara</h1>
 <h3 align="center">As a skilled software engineer with over two years of industry experience, I specialize in Next.js, TypeScript, React.js, Tailwind CSS, HTML5, CSS3, and JavaScript. I am passionate about solving complex problems, transforming UI/UX designs into functional code, writing maintainable code, and optimizing website performance.</h3>
 
